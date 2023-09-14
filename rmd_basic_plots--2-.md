@@ -34,3 +34,5 @@ ggplot(plot_df, aes(x = x, y = y)) + geom_point()
 ```
 
 ![](rmd_basic_plots--2-_files/figure-gfm/yx_scatter-1.png)<!-- -->
+
+1
